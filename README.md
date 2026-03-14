@@ -1,1 +1,1 @@
-# Copy
+# Skin Cancer Detection
